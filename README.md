@@ -1,2 +1,2 @@
-# java-web
-my study exercises
+# java-HTML-CSS
+My Study Examples
