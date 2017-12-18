@@ -1,0 +1,19 @@
+
+p{
+    color:black;
+    font-size: 12px;
+}
+h1{
+    color:black;
+    font-size:18px;
+}
+.num{
+    color:red;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.year{
+    color: blue;
+    font-size: 12px;
+    font-style: oblique;
+}
